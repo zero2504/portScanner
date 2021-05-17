@@ -1,2 +1,2 @@
 # portScanner
-Java-PortScanner
+Java-PortScanner with GUI (Java Swing)
