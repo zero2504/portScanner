@@ -1,2 +1,2 @@
-# portScanner
-Java-PortScanner with GUI (Java Swing)
+# Java-Antivirus
+Easy Antivirus with Java
